@@ -1,0 +1,19 @@
+Step 1: 
+sudo apt-get install python3-venv // to install a virtual environment
+Step 2:
+Create a new folder in Documents and rename the folder
+Step 3:
+Move the created folder into the new folder.
+Step 4:
+sudo apt-get install python3-venv // to create a virtual library
+Step 5:
+$ mkvirtualenv py3-flask --python=/usr/bin/python3  // to install flask inside the virtual environment
+Step 6:
+Force deleting a directory: rm -rf <filename>
+Step 7:
+Activating virtual environment:
+ source virtual/bin/activate
+Step 8:
+pip install flask //  to install flask
+Step 9:
+pip freeze  // to list all the packages in the virtual environment
